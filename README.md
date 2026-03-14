@@ -1,3 +1,3 @@
 # litgit-repo-test
 
-first
+first, an update from dev branch
